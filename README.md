@@ -1,7 +1,5 @@
 # LAB - 15 
-Event Driven Applications
-
-## Express
+## Event Driven Applications
 
 ### Author: Nadya Ilinskaya/Seattle-js-401n14
 
