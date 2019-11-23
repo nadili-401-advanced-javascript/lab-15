@@ -7,24 +7,14 @@
 * [submission PR](https://github.com/nadili-401-advanced-javascript/lab-15/pull/1)
 * [travis](https://travis-ci.com/nadili-401-advanced-javascript/lab-15)
 
-
-
 ### Modules
-
-
-### Setup
+* emitter.js
+* file-changer.js
+* app.js
 
 #### Running the app
-* config .env variables:
-    * PORT
-    * MONGODB_URI
-    * JWT_SECRET
+* `node app.js [path to file]`
 
-* start a MongoDB instance with the data from your local mongo db folder: `mongod --dbpath=./data`
-* `node index.js`
-* http://localhost:3000
-
-  
 #### Tests
 * Unit Tests: 'npm test'
 * Lint Tests: 'npm run lint' 
