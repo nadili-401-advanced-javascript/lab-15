@@ -10,6 +10,7 @@
 ### Modules
 * emitter.js
 * file-changer.js
+* logger.js
 * app.js
 
 #### Running the app
